@@ -25,16 +25,16 @@ const FooterContainer = () => {
           </h3>
           <ul class="footer-links">
             <li>
-              <a href="#">Twitter</a>
+              <a href="http://scanfcode.com/sitemap/">Twitter</a>
             </li>
             <li>
-              <a href="#">Facebook</a>
+              <a href="http://scanfcode.com/sitemap/">Facebook</a>
             </li>
             <li>
-              <a href="#">Linkedin</a>
+              <a href="http://scanfcode.com/sitemap/">Linkedin</a>
             </li>
             <li>
-              <a href="#">Github</a>
+              <a href="http://scanfcode.com/sitemap/">Github</a>
             </li>
           </ul>
         </div>
