@@ -11,7 +11,6 @@ const CommentDetail = () => {
   
   return (
     <div className="nav-info">
-      
       <InfoItem title="OUR LOCATION" content="New Bortianor, Accra">
         <span class="fa-stack">
           <i class="far fa-circle fa-stack-2x"></i>

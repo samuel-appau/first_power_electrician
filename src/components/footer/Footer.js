@@ -41,58 +41,56 @@ const FooterContainer = () => {
 
         <div className="flexbox-item flexbox-item-3">
           <h3 class="widget-title">
-            Contact Us<span></span>
+            Solutions<span></span>
           </h3>
 
           <ul class="footer-links">
             <li>
-              <a href="http://scanfcode.com/about/">About Us</a>
-            </li>
-            <li>
-              <a href="http://scanfcode.com/contact/">Contact Us</a>
-            </li>
-            <li>
-              <a href="http://scanfcode.com/contribute-at-scanfcode/">
-                Contribute
+              <a href="http://scanfcode.com/about/">
+                Appliance Repairs and Installation
               </a>
             </li>
             <li>
-              <a href="http://scanfcode.com/privacy-policy/">Privacy Policy</a>
+              <a href="http://scanfcode.com/contact/">Air-condition works</a>
             </li>
             <li>
-              <a href="http://scanfcode.com/sitemap/">Sitemap</a>
+              <a href="http://scanfcode.com/contribute-at-scanfcode/">
+                Routine Electrical Maintainence
+              </a>
+            </li>
+            <li>
+              <a href="http://scanfcode.com/privacy-policy/">Fault Tracing</a>
+            </li>
+          </ul>
+        </div>
+        <div className="flexbox-item flexbox-item-2 pb5">
+          <h3 class="widget-title">
+            Contact Us<span></span>
+          </h3>
+          <ul class="footer-links">
+            <li>
+              <p>
+                <i class="fas fa-phone"></i>
+                <a href="tel:+233592739920">+233 592739920</a>
+              </p>
+            </li>
+            <li>
+              <p>
+                <i class="fas fa-envelope"></i>
+                <a href="mailto:kwabenaemmanuel326@gmail.com">
+                  kwabenaemmanuel326@gmail.com
+                </a>
+              </p>
+            </li>
+            <li>
+              <p>
+                <i class="fas fa-comment"></i>
+                <a href="https://wa.me/+233592739920">+233 592739920</a>
+              </p>
             </li>
           </ul>
         </div>
       </div>
-      {/* <div className="social-container">
-        <h2>Follow us on</h2>
-
-        <div class="footer-social-icons">
-          <ul class="social-icons">
-            <li>
-              <a href="" class="social-icon">
-                <i class="fab fa-facebook-f"></i>
-              </a>
-            </li>
-            <li>
-              <a href="" class="social-icon">
-                <i class="fab fa-twitter"></i>
-              </a>
-            </li>
-            <li>
-              <a href="" class="social-icon">
-                <i class="fab fa-youtube"></i>
-              </a>
-            </li>
-            <li>
-              <a href="" class="social-icon">
-                <i class="fab fa-instagram"></i>
-              </a>
-            </li>
-          </ul>
-        </div>
-      </div> */}
     </footer>
   );
 };
